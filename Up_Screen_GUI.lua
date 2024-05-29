@@ -8,6 +8,7 @@ textBox.BackgroundColor3 = Color3.new(0, 0, 0)
 textBox.BorderSizePixel = 0
 textBox.BackgroundTransparency = 0
 textBox.FontSize = Enum.FontSize.Size14
+textBox.TextEditable = false
 textBox.Parent = screenGui
 
 local timer = 5
