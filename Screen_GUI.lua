@@ -12,6 +12,7 @@ textBox.TextColor3 = Color3.new(1, 1, 1)
 textBox.TextStrokeTransparency = 0
 textBox.TextStrokeColor3 = Color3.new(0, 0, 0)
 textBox.ClearTextOnFocus = false
+textBox.TextEditable = false
 textBox.Text = "〰 Script Executed 〰"
 textBox.Parent = screenGui
 
